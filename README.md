@@ -15,7 +15,7 @@ A simple RESTful API for managing a bookstore, built using **Golang**, **Gorilla
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/Page-Turner-API.git
+git clone https://github.com/Sabit143/Page-Turner-API.git
 cd Page-Turner-API
 ```
 
