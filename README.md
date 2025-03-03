@@ -13,3 +13,13 @@ This project is a RESTful API for managing a Book Store, built using Go (Golang)
 ✅ Update book details ✏️
 
 ✅ Delete books from the store ❌
+# Set-up
+1️⃣ Clone the Repository
+
+git clone https://github.com/Sabit143/Page-Turner-API.git
+
+cd Page-Turner-API
+
+2. install the dependencies
+go mod tidy
+
