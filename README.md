@@ -128,7 +128,7 @@ curl -X DELETE http://localhost:9010/book/1
 ## 🏗️ Project Structure
 ```
 📂 go-bookstore
-│-- 📂 pkg
+│-- 📂 package
 │   ├── 📂 config       # Database connection
 │   ├── 📂 controllers  # API handlers
 │   ├── 📂 models       # Database models
@@ -137,19 +137,9 @@ curl -X DELETE http://localhost:9010/book/1
 │-- 📜 main.go          # Entry point
 ```
 
----
-
-## 🏆 Contributing
-Feel free to fork this repository and submit pull requests! 😊
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 
 
-2. install the dependencies
 
-go mod tidy
+
 
